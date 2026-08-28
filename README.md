@@ -1,4 +1,5 @@
 # PSVault
+<img src="https://assets.ibm.com/is/image/ibm/hashicorp-vault-large?fmt=png-alpha" width="400">
 
 Folder encryption tool for Windows. AES-256-GCM, pattern lock, master key recovery.
 
