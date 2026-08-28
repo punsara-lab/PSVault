@@ -4,6 +4,7 @@ Folder encryption tool for Windows. AES-256-GCM, pattern lock, master key recove
 
 **Developer:** punsara  
 Date-2026.05.15
+
 **License:** MIT (free & open source)
 
 ---
